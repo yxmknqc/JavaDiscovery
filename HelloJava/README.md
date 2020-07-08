@@ -1,6 +1,7 @@
 # HelloJava
 
 Here is the rough sequence of the establishing of files in hellojava folder.
+
 1.hellojava
 2.dataTypesAndCalcu
 3.while1a1d2faMore
